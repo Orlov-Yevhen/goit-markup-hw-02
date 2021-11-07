@@ -36,7 +36,6 @@ body {
 
 .header-logo {
     font-family: Raleway;
-    font-style: 400;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -224,7 +223,6 @@ footer {
 
 .logo-web {
     font-family: Raleway;
-    font-style: 400;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -296,7 +294,6 @@ footer {
 }
 
 .portfolio-title {
-    font-style: 400;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
